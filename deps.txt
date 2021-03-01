@@ -1,0 +1,5 @@
+libXrender-devel.i686
+libXext-devel.i686
+libX11-devel.i686
+glibc-devel.i686
+
